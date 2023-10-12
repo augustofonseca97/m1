@@ -77,6 +77,14 @@
 
     }
 
+    .asuce {
+        background-color: green;
+        color : white;
+        width: 100px;
+        border-radius: 20px;
+
+    }
+
 
     p {
         color: white;
