@@ -4,10 +4,9 @@
     
     $sn= $_POST['sn'];
    
-    $quant= $_POST['quan'];
+    $quant= $_POST['quant'];
 
     echo 'nome digitado:'. $nome; 
     echo 'comparecerá:'. $sn;   
-    echo 'quantidade de pessoas:'.$quan;
-
+    echo 'quantidade de pessoas:'.$quant
 ?>
