@@ -9,6 +9,7 @@
    body{
          background-image: linear-gradient(to bottom, #7203FA, #8412DE, #AE20F5, #B012DE, #E414FF);
          background-repeat: no-repeat;
+         background-attachment: fixed;
          
          
    }
@@ -53,10 +54,6 @@
         box-shadow: 0px 10px 10px 0px black;
     }
 
-    h3 {
-        color: white;
-    }
-
     nav{
         text-align: center;
         box-shadow: 0 4px 16px -8px black;
@@ -83,7 +80,7 @@
 
     p {
         color: white;
-        text-align: center;
+        text-align: justify center;
         font-size: 25px;
         width: 97%;
         margin-top: 15px;
